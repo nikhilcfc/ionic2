@@ -1,0 +1,14 @@
+<ion-header>
+  <ion-navbar no-border-bottom>
+  <ion-title>List of Taxis in the City </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content class="home" padding>
+  <ion-list>
+  <ion-item *ngFor="let taxi of taxiList">
+      <p>Taxi Id : {{taxi.id}}</p>
+      <h3> Driver Name : {{taxi.name}}</h3>
+      <h4 >City : {{taxi.city}}</h4>
+  </ion-item>
+  </ion-list>
+</ion-content>

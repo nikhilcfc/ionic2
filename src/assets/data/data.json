@@ -1,0 +1,53 @@
+{
+  "taxis": [
+    {
+      "city": "Delhi",
+      "name": "Nikhil,Saket",
+      "id": "1",
+      "location": "Saket"
+    },
+    {
+      "city": "Delhi",
+      "name": "Srikanth,Mayur Vihar",
+      "id": "2",
+      "location": "Mayur Vihar"
+    },
+    {
+      "city": "Mumbai",
+      "name": "Joy",
+      "id": "3",
+      "location": "Varsova"
+    },
+    {
+      "city": "Mumbai",
+      "name": "Neil",
+      "id": "4",
+      "location": "Navi Mumbai"
+    },
+    {
+      "city": "Delhi",
+      "name": "Amar",
+      "id": "5",
+      "location": "Vasant Kunj"
+    },
+    {
+      "city": "Delhi",
+      "name": "Akbar",
+      "id": "6",
+      "location": "Old Delhi"
+    },
+    {
+      "city": "Mumbai",
+      "name": "Anthony",
+      "id": "7",
+      "location": "Juhu"
+    },
+    {
+      "city": "Mumbai",
+      "name": "Krishna",
+      "id": "8",
+      "location": "Navi Mumbai"
+    }
+
+  ]
+}
